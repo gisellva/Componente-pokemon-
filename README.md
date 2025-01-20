@@ -18,7 +18,6 @@ Este repositorio contiene un **componente modular y reutilizable** diseñado en 
 │   ├── InMemoryPokemonRepository.cs # Implementación en memoria
 │   ├── PokemonManager.cs # Lógica de negocio
 ├── /docs               # Archivos de documentación
-│   ├── UML-Diagrams    # Contiene diagramas UML (clases y componentes)
 │   ├── README.md       # Este archivo README
 ├── /tests              # Pruebas unitarias
 ├── PokemonComponent.sln # Archivo de solución
@@ -41,10 +40,10 @@ Abre el archivo de solución en Visual Studio.
 Este repositorio incluye:
 
 Diagramas UML:
-Diagrama de Clases: Relación entre las entidades principales.
+Diagrama de Clases:
 ![image](https://github.com/user-attachments/assets/c3e39548-21a3-466c-bd70-83a3ba088510)
 
-Diagrama de Componentes: Representación de los módulos principales del sistema y su interacción.
+Diagrama de Componentes: 
 ![image](https://github.com/user-attachments/assets/54b8aa3f-f233-426b-a423-65e0a4b9fbcd)
 
 Código bien estructurado siguiendo los principios de diseño.
