@@ -30,7 +30,8 @@ Este repositorio incluye:
 Diagramas UML:
 Diagrama de Clases:
 
-![image](https://github.com/user-attachments/assets/c3e39548-21a3-466c-bd70-83a3ba088510)
+![image](https://github.com/user-attachments/assets/855b0bfd-1751-431e-972e-8c5fe75ce4f1)
+
 
 Diagrama de Componentes: 
 
