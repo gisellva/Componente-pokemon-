@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Componente_de_pokemon/1.0.0": {
+        "dependencies": {
+          "PokemonComponent": "1.0.0"
+        },
+        "runtime": {
+          "Componente_de_pokemon.dll": {}
+        }
+      },
+      "PokemonComponent/1.0.0": {
+        "runtime": {
+          "PokemonComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Componente_de_pokemon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PokemonComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
