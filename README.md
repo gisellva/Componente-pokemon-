@@ -9,19 +9,7 @@ Este repositorio contiene un **componente modular y reutilizable** diseñado en 
 - **Inversión de dependencias**: Utiliza una abstracción (`IPokemonRepository`) para separar la lógica de la implementación.
 - **Extensibilidad**: Permite reemplazar fácilmente el repositorio con otra implementación (por ejemplo, una base de datos).
 
-## 🗂️ Estructura del repositorio
-```plaintext
-.
-├── /src                # Código fuente
-│   ├── Pokemon.cs      # Entidad Pokémon
-│   ├── IPokemonRepository.cs # Interfaz del repositorio
-│   ├── InMemoryPokemonRepository.cs # Implementación en memoria
-│   ├── PokemonManager.cs # Lógica de negocio
-├── /docs               # Archivos de documentación
-│   ├── README.md       # Este archivo README
-├── /tests              # Pruebas unitarias
-├── PokemonComponent.sln # Archivo de solución
-```
+
 ## 🚀 Empezando
 Requisitos previos
 .NET 6.0 o superior
