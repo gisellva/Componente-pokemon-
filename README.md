@@ -22,7 +22,7 @@ Este repositorio contiene un **componente modular y reutilizable** diseñado en 
 ├── /tests              # Pruebas unitarias
 ├── PokemonComponent.sln # Archivo de solución
 ```
-##🚀 Empezando
+## 🚀 Empezando
 Requisitos previos
 .NET 6.0 o superior
 Visual Studio o Visual Studio Code
@@ -36,7 +36,7 @@ cd ComponentePokemon
 ```
 Abre el archivo de solución en Visual Studio.
 
-##📜 Documentación
+## 📜 Documentación
 Este repositorio incluye:
 
 Diagramas UML:
@@ -51,7 +51,7 @@ Diagrama de Componentes:
 Código bien estructurado siguiendo los principios de diseño.
 Pruebas unitarias para validar el comportamiento del componente.
 
-##📌 Versionamiento
+## 📌 Versionamiento
 El proyecto sigue un esquema de versionamiento semántico:
 
 Mayor: Cambios que rompen compatibilidad.
@@ -59,7 +59,7 @@ Menor: Nuevas características que son compatibles.
 Parche: Corrección de errores y ajustes menores.
 Esta versión es la 1.0.0
 
-##🛠️ Contribuir
+## 🛠️ Contribuir
 Si deseas contribuir:
 
 Realiza un fork del repositorio.
@@ -70,7 +70,7 @@ git checkout -b feature/nueva-funcion
 ```
 Haz un pull request.
 
-##📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la Licencia MIT. 
 
 
