@@ -28,14 +28,11 @@ Abre el archivo de solución en Visual Studio.
 Este repositorio incluye:
 
 Diagramas UML:
-Diagrama de Clases:
+*Diagrama de Clases
+*Diagrama de Componentes
+Documentacion
 
-![image](https://github.com/user-attachments/assets/855b0bfd-1751-431e-972e-8c5fe75ce4f1)
 
-
-Diagrama de Componentes: 
-
-![image](https://github.com/user-attachments/assets/54b8aa3f-f233-426b-a423-65e0a4b9fbcd)
 
 Código bien estructurado siguiendo los principios de diseño.
 Pruebas unitarias para validar el comportamiento del componente.
