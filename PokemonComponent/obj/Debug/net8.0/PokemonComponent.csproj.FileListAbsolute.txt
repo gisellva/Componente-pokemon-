@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\PokemonComponent\bin\Debug\net8.0\PokemonComponent.deps.json
+C:\Users\user\source\repos\PokemonComponent\bin\Debug\net8.0\PokemonComponent.dll
+C:\Users\user\source\repos\PokemonComponent\bin\Debug\net8.0\PokemonComponent.pdb
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.AssemblyInfo.cs
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.sourcelink.json
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.dll
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\refint\PokemonComponent.dll
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\PokemonComponent.pdb
+C:\Users\user\source\repos\PokemonComponent\obj\Debug\net8.0\ref\PokemonComponent.dll

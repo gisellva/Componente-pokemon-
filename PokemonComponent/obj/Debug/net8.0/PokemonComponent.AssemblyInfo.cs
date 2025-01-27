@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Componente_de_pokemon")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PokemonComponent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a0baafae135863393ee8387f830a866a1392f82")]
-[assembly: System.Reflection.AssemblyProductAttribute("Componente_de_pokemon")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Componente_de_pokemon")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd4d5e12c44dd44ad6af0af81d52bcbb362b7ab")]
+[assembly: System.Reflection.AssemblyProductAttribute("PokemonComponent")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PokemonComponent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
