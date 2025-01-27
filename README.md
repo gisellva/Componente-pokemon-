@@ -30,8 +30,9 @@ Este repositorio incluye:
 Diagramas UML:
 *Diagrama de Clases
 *Diagrama de Componentes
-Documentacion
+Documentacion 
 
+[Documentacion del componenete de pokemon .pdf](https://github.com/user-attachments/files/18562014/Documentacion.del.componenete.de.pokemon.pdf)
 
 
 Código bien estructurado siguiendo los principios de diseño.
